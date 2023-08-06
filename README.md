@@ -1,8 +1,10 @@
 <div>
   <h1>
-    Thermometer with attached alcohol dispenser | Termometro com dispenser de álcool acoplado
+    Thermometer with attached alcohol dispenser<br> 
+    Termometro com dispenser de álcool acoplado
   </h1>
 </div>
+
 
 
 <div>
