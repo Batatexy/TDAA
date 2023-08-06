@@ -13,6 +13,6 @@
 
   <p>
     Este é o meu TCC do SENAI de 2022, basicamente um trabalho de conclusão. O projeto se consiste em um ejetor que espira álcool quando se colocar as mãos no sensor,
-    e também mede sua temperatura
+    e também mede sua temperatura e mostra no display, Tudo isso foi feito utilizando arduino, alguns sensores e uma bomba de pressão.
   </p>
 </div>
